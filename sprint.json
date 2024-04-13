@@ -1,0 +1,45 @@
+[
+
+    {
+        "fname": "Parker",
+        "lname": "Douglas",
+        "age": 20,
+        "major": "Computer Science",
+        "year": "Junior",
+        "gradyear": "May 2025"
+    },
+    {
+        "fname": "Jane",
+        "lname": "Stephens",
+        "age": 22,
+        "major": "Electrical Engineering",
+        "year": "Senior",
+        "gradyear": "May 2024"
+    },
+    {
+        "fname": "Alex",
+        "lname": "Johnson",
+        "age": 21,
+        "major": "Mechanical Engineering",
+        "year": "Junior",
+        "gradyear": "May 2025"
+    },
+    {
+        "fname": "Sarah",
+        "lname": "Williams",
+        "age": 19,
+        "major": "Biology",
+        "year": "Sophomore",
+        "gradyear": "May 2026"
+    },
+    {
+        "fname": "Michael",
+        "lname": "Brown",
+        "age": 23,
+        "major": "Business Administration",
+        "year": "Senior",
+        "gradyear": "May 2024"
+    }
+    
+]
+
